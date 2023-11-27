@@ -61,6 +61,7 @@ ___
 * **ERD**
 <p align="center"><img src="https://github.com/JungleSpider/TripNow/blob/master/src/main/webapp/file/ERD.png?raw=true"/></p>
 
+___
 * **화면 설계**
 <p align="center"><img src="https://github.com/JungleSpider/TripNow/blob/master/src/main/webapp/file/%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B4%80%EA%B3%84%EB%8F%84%20-%20%ED%99%94%EB%A9%B4%20%EC%88%9C%EC%84%9C.png?raw=true"/></p>
 <p align="center"><img src="https://github.com/JungleSpider/TripNow/blob/master/src/main/webapp/file/%ED%8E%98%EC%9D%B4%EC%A7%80%EA%B4%80%EA%B3%84%EB%8F%84%20-%20%ED%99%94%EB%A9%B4%EA%B0%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9D%B4%EB%8F%99.png?raw=true"/></p>
