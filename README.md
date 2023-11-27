@@ -4,6 +4,7 @@
 # Description
 * 개발 기간: 2022.07.11 ~ 2022.07.22
 * 참여 인원: 4명
+* 개발 툴  : Eclipse
 * 사용 언어: 
   * JAVA11, SQL, HTML, CSS, JavaScript, JSP/Servlet
 * 개발 툴  : Eclipse
