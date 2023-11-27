@@ -16,13 +16,14 @@
 
 # Implementation
 * **메인화면**
-* 메인화면 사진
+ <p align="center"><img src="https://github.com/JungleSpider/TripNow/blob/master/src/main/webapp/file/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.PNG?raw=true"/></p>
+
   * **메뉴설정, 상품검색 기능**
     * 지역, 날짜, 인원 조건을 설정 후 해당 키워드에 해당되는 상품들을 DB에 조회해서 페이징 처리와 출력.
 
 ___
 * **상품 카테고리**
- <p align="center"><img src="https://github.com/JungleSpider/TripNow/blob/master/src/main/webapp/file/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.PNG?raw=true"/></p>
+ <p align="center"><img src="https://github.com/JungleSpider/TripNow/blob/master/src/main/webapp/file/%EB%A6%AC%EC%8A%A4%ED%8A%B8.PNG?raw=true"/></p>
  <p align="center"><img src="https://github.com/JungleSpider/TripNow/blob/master/src/main/webapp/file/%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EC%BD%94%EB%93%9C.PNG?raw=true"/></p>
 
   * PraparedStatement 동적 쿼리문을 이용하여 리스트를 받은 후 출력하고 상품 리스트를 구성합니다.
